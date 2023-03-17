@@ -1,0 +1,40 @@
+Exercicio1 Algoritimo:
+Passo 1: ler o valor 1
+passo 2: ler o valor 2
+passo 3: se valor 1 > valor 2 - então escreva {
+    ( O valor 1 é maior)
+} Senão {
+  escreva (o valor 2 é maior)  
+} 
+
+
+Exercicio2 Algoritimo:
+Passo1: Ler o Valor da data de nascimento da pessoa;
+Passo2: Ver se em 2023 ela podera votar;
+Passo3: Escrever uma mensagem se ela pode ou não votar;
+
+
+Exercio3 Algoritimo:
+Passo1: Ler a senha  digitada;
+Passo2: Identificar se a senha é a correta ou não;
+Passo3: Informar as devidas mensagens se o acesso for permitido ou não.
+Mensagens: ACESSO PERMITIDO caso a senha seja válida.
+           ACESSO NEGADO caso a senha seja inválida.
+
+
+Exercicio4 Algoritimo:
+Passo1: Ler a quantida de maçãs compradas;
+Passo2: exibir quanidade de maças por preço
+
+
+Exercicio5 Algoritimo:
+Passo1: Pedir para que seja digitado 3 valores inteiros na tela;
+Passo2: pedir para me voltar em ordem crescente os valores; 
+
+
+Exercicio6 Algoritimo:
+Passo1: ler codigo para sexo e a altura.
+Passo2: dar a formula para cada codigo;
+Passo3: Printar na tela;
+
+
