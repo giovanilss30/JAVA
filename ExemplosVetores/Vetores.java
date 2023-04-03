@@ -10,7 +10,7 @@ public class Vetores {
 
         int vetorInt[] = new int [5]; //Vetor vazio
 
-        int vetorInt2[] = new int[]{1,2,3,4,5}; //Vetor já com os VALORES dentro dele
+        //int vetorInt2[] = new int[]{1,2,3,4,5};    => Vetor já com os VALORES dentro dele
 
         //Preenchendo o valorInt o 1
         vetorInt[0] = sc.nextInt(); // 1º posição indice 0
@@ -213,5 +213,77 @@ public class Vetores {
        System.out.println(vetorB[13]);
        System.out.println(vetorB[14]);
 
+    }
+
+    public void exercicio4EXTRA() {
+        int vetorA[] = new int[15];
+        vetorA[0] = 1;
+        vetorA[1] = 2;
+        vetorA[2] = 3;
+        vetorA[3] = 4;
+        vetorA[4] = 5;
+        vetorA[5] = 6;
+        vetorA[6] = 7;
+        vetorA[7] = 8;
+        vetorA[8] = 9;
+        vetorA[9] = 10;
+       vetorA[10] = 11;
+       vetorA[11] = 12;
+       vetorA[12] = 13;
+       vetorA[13] = 14;
+       vetorA[14] = 15;
+        
+
+        double vetorB[] = new double [15];
+        vetorB[0] = Math.sqrt(vetorA[0]);
+        vetorB[1] =Math.sqrt(vetorA[1]);
+        vetorB[2] = Math.sqrt(vetorA[2]);
+        vetorB[3] = Math.sqrt(vetorA[3]);
+        vetorB[4] = Math.sqrt(vetorA[4]);
+        vetorB[5] = Math.sqrt(vetorA[5]);
+        vetorB[6] = Math.sqrt(vetorA[6]);
+        vetorB[7] = Math.sqrt(vetorA[7]);
+        vetorB[8] = Math.sqrt(vetorA[8]);
+       vetorB[10] = Math.sqrt(vetorA[10]);
+       vetorB[11] = Math.sqrt(vetorA[11]);
+       vetorB[12] = Math.sqrt(vetorA[12]);
+       vetorB[13] = Math.sqrt(vetorA[13]);
+       vetorB[14] = Math.sqrt(vetorA[14]);
+       
+       System.out.println("Numeros vetores A: ");
+       System.out.println(vetorA[0]);
+       System.out.println(vetorA[1]);
+       System.out.println(vetorA[2]);
+       System.out.println(vetorA[3]);
+       System.out.println(vetorA[4]);
+       System.out.println(vetorA[5]);
+       System.out.println(vetorA[6]);
+       System.out.println(vetorA[7]);
+       System.out.println(vetorA[8]);
+       System.out.println(vetorA[9]);
+       System.out.println(vetorA[10]);
+       System.out.println(vetorA[11]);
+       System.out.println(vetorA[12]);
+       System.out.println(vetorA[13]);
+       System.out.println(vetorA[14]);
+
+       System.out.println(""); //Espaçamento
+
+       System.out.println("Numeros vetores B: ");
+       System.out.println(vetorB[0]);
+       System.out.println(vetorB[1]);
+       System.out.println(vetorB[2]);
+       System.out.println(vetorB[3]);
+       System.out.println(vetorB[4]);
+       System.out.println(vetorB[5]);
+       System.out.println(vetorB[6]);
+       System.out.println(vetorB[7]);
+       System.out.println(vetorB[8]);
+       System.out.println(vetorB[9]);
+       System.out.println(vetorB[10]);
+       System.out.println(vetorB[11]);
+       System.out.println(vetorB[12]);
+       System.out.println(vetorB[13]);
+       System.out.println(vetorB[14]);
     }
 }
