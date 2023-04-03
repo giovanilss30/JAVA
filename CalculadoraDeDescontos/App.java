@@ -1,4 +1,4 @@
-package Java.CalculadoraDeDescontos;
+package CalculadoraDeDescontos;
 
 public class App {
     public static void main(String[] args) {

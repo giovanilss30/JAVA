@@ -1,4 +1,4 @@
-package Java.EstruturaDecisãoIfElse;
+package EstruturaDecisãoIfElse;
 
 import java.util.Scanner;
 

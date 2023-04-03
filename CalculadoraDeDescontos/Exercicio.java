@@ -1,4 +1,4 @@
-package Java.CalculadoraDeDescontos;
+package CalculadoraDeDescontos;
 
 import java.util.Scanner;
 
